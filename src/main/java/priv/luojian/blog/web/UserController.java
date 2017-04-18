@@ -18,10 +18,24 @@ public class UserController {
     private UserService userService;
 
     @RequestMapping(value = "/index.action",method = RequestMethod.GET)
-    public String index(Model model){
+    public String index(){
         return "mainView";
     }
 
+    @RequestMapping(value = "/single.action",method = RequestMethod.GET)
+    public String single(Model model){
+        return "single";
+    }
+
+    @RequestMapping(value = "/contact.action",method = RequestMethod.GET)
+    public String contact(){
+        return "contact";
+    }
+
+    @RequestMapping(value = "/about.action",method = RequestMethod.GET)
+    public String about(){
+        return "about";
+    }
 
     @RequestMapping(value = "saveUser.action",method = RequestMethod.POST)
     public String saveUser(User user){

@@ -11,7 +11,7 @@
         <div class="col-md-6 col-sm-6">
             <article class=" blog-teaser">
                 <header>
-                    <img src="../asserts/img/1.jpg" alt="">
+                    <img src="../assets/img/1.jpg" alt="">
                     <h3><a href="single.html">How to Create Template</a></h3>
                     <span class="meta">19 August 2015, John Doe</span>
                     <hr>
@@ -29,7 +29,7 @@
         <div class="col-md-6 col-sm-6">
             <article class="blog-teaser">
                 <header>
-                    <img src="../asserts/img/2.jpg" alt="">
+                    <img src="../assets/img/2.jpg" alt="">
                     <h3><a href="single.html">Clean Personal Blog Template</a></h3>
                     <span class="meta">19 August 2015, John Doe</span>
                     <hr>
@@ -52,7 +52,7 @@
         <div class="col-md-6 col-sm-6">
             <article class="blog-teaser">
                 <header>
-                    <img src="../asserts/img/3.jpg" alt="">
+                    <img src="../assets/img/3.jpg" alt="">
                     <h3><a href="single.html">Blackor - Responsive HTML5 Theme</a></h3>
                     <span class="meta">19 August 2015, John Doe</span>
                     <hr>
@@ -70,7 +70,7 @@
         <div class="col-md-6 col-sm-6">
             <article class="blog-teaser">
                 <header>
-                    <img src="../asserts/img/4.jpg" alt="">
+                    <img src="../assets/img/4.jpg" alt="">
                     <h3><a href="single.html">Yellow - HTML5 Template</a></h3>
                     <span class="meta">19 August 2015, John Doe</span>
                     <hr>

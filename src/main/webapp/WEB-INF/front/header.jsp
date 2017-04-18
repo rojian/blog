@@ -3,7 +3,7 @@
     <div class="widewrapper main">
         <div class="container">
             <a href="index.html" id="logo">
-                <img src="../asserts/img/logocat.png" alt="clean Blog">
+                <img src="../assets/img/logocat.png" alt="clean Blog">
             </a>
 
 

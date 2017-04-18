@@ -10,20 +10,20 @@
     <meta name="viewport" content="width=device-width">
 
     <!-- Bootstrap styles -->
-    <link rel="stylesheet" href="../asserts/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
 
     <!-- Font-Awesome -->
-    <link rel="stylesheet" href="../asserts/css/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/css/font-awesome/css/font-awesome.min.css">
 
     <!-- Google Webfonts -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600|PT+Serif:400,400italic' rel='stylesheet'
           type='text/css'>
 
     <!-- Styles -->
-    <link rel="stylesheet" href="../asserts/css/style.css" id="theme-styles">
+    <link rel="stylesheet" href="../assets/css/style.css" id="theme-styles">
 
     <!--[if lt IE 9]>
-    <script src="../asserts/js/vendor/google/html5-3.6-respond-1.1.0.min.js"></script>
+    <script src="../assets/js/vendor/google/html5-3.6-respond-1.1.0.min.js"></script>
     <![endif]-->
 
 </head>
@@ -45,9 +45,9 @@
     <tiles:insertAttribute name="footer" />
 </footer>
 
-<script src="../asserts/js/jquery.min.js"></script>
-<script src="../asserts/js/bootstrap.min.js"></script>
-<script src="../asserts/js/modernizr.js"></script>
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../assets/js/bootstrap.min.js"></script>
+<script src="../assets/js/modernizr.js"></script>
 
 </body>
 </html>
