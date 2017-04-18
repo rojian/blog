@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN" "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+
+    <definition name="Layout" template="/WEB-INF/front/layout.jsp">
+        <put-attribute name="title" value="个人博客" />
+        <put-attribute name="header" value="/WEB-INF/front/header.jsp" />
+        <put-attribute name="l-content" value="/WEB-INF/front/l-content.jsp" />
+        <put-attribute name="r-content" value="/WEB-INF/front/r-content.jsp" />
+        <put-attribute name="footer" value="/WEB-INF/front/footer.jsp" />
+    </definition>
+
+    <!-- 主页面<先执行，布局框架> -->
+    <definition name="mainView" extends="Layout">
+        <put-attribute name="title" value="主页"/>
+        <put-attribute name="l-content" value="/WEB-INF/front/main.jsp"/>
+    </definition>
+
+</tiles-definitions>

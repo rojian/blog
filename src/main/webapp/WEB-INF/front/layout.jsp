@@ -1,0 +1,53 @@
+<%@ taglib prefix="tiles" uri="http://tiles.apache.org/tags-tiles" %>
+<!DOCTYPE html>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>主页</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="../asserts/css/bootstrap.min.css">
+
+    <!-- Font-Awesome -->
+    <link rel="stylesheet" href="../asserts/css/font-awesome/css/font-awesome.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600|PT+Serif:400,400italic' rel='stylesheet'
+          type='text/css'>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../asserts/css/style.css" id="theme-styles">
+
+    <!--[if lt IE 9]>
+    <script src="../asserts/js/vendor/google/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+<header>
+    <tiles:insertAttribute name="header" />
+</header>
+
+<div class="widewrapper main">
+    <div class="container">
+        <div class="row">
+            <tiles:insertAttribute name="l-content" />
+            <tiles:insertAttribute name="r-content" />
+        </div>
+    </div>
+</div>
+
+<footer>
+    <tiles:insertAttribute name="footer" />
+</footer>
+
+<script src="../asserts/js/jquery.min.js"></script>
+<script src="../asserts/js/bootstrap.min.js"></script>
+<script src="../asserts/js/modernizr.js"></script>
+
+</body>
+</html>
