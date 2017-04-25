@@ -14,7 +14,7 @@
         <input type="email" name="email" id="contact-email" placeholder="Email" class="form-control input-lg">
         <textarea rows="10" name="message" id="contact-body" placeholder="Your Message" class="form-control input-lg"></textarea>
         <div class="buttons clearfix">
-            <button type="submit" class="btn btn-xlarge btn-clean-one">Submit</button>
+            <button type="submit" class="btn btn-xlarge btn-clean-one">提交</button>
         </div>
     </form>
 </div>

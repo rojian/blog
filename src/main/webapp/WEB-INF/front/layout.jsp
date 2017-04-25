@@ -4,6 +4,9 @@
 
 <html lang="en">
 <head>
+    <%--标题栏显示logo--%>
+    <%--<link rel="icon" href="../assets/img/favicon.ico" type="image/x-icon">--%>
+    <link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon">
     <meta charset="utf-8">
     <title>主页</title>
     <meta name="description" content="">

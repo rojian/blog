@@ -22,7 +22,7 @@
                     pariatur dignissimos, quis sequi odit iusto cumque quod!
                 </div>
                 <div class="clearfix">
-                    <a href="single.html" class="btn btn-clean-one">详情</a>
+                    <a href="single.action" class="btn btn-clean-one">详情</a>
                 </div>
             </article>
         </div>

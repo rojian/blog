@@ -18,13 +18,13 @@
                     <ul class="nav nav-pills navbar-nav">
 
                         <li>
-                            <a href="index.html">主页</a>
+                            <a href="index.action">主页</a>
                         </li>
                         <li>
-                            <a href="about.html">关于</a>
+                            <a href="about.action">关于</a>
                         </li>
                         <li>
-                            <a href="contact.html">联系</a>
+                            <a href="contact.action">联系</a>
                         </li>
                     </ul>
                 </div>

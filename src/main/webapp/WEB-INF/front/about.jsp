@@ -13,7 +13,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui quo sint asperiores, ut doloremque eum commodi, odit nisi sed repellendus earum recusandae pariatur consectetur minus rerum, magni dolores officiis magnam.</p>
 
         <div class="about-button">
-            <a class="btn btn-xlarge btn-clean-one" href="contact.html">Contact Me</a>
+            <a class="btn btn-xlarge btn-clean-one" href="contact.html">联系我</a>
         </div>
         <hr>
     </div>
